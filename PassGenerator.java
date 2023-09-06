@@ -4,7 +4,7 @@ import java.security.SecureRandom;
 import javax.swing.*;
 import javax.swing.border.Border;
 
-public class PasswordGenerator extends JFrame {
+public class PassGenerator extends JFrame {
     private JTextField lengthField;
     private JTextArea passwordArea;
     private JButton generateButton;
